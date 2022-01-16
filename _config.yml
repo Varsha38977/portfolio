@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Developer at Thoughtspot
   <br><br>
-  <a href="mailto:varsha38977@gmail.com"> Email </a>
+  <a href="mailto:varsha38977@gmail.com"><i class="fa fa-envelope-o fa-fw" </i></a>
   <a href="https://www.linkedin.com/in/varsha-lalwani-4a9489142/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
   <a href="tel:7905315428" target="_blank"><i class="fa fa-phone" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 
