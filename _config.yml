@@ -3,13 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Developer at Thoughtspot
   <br><br>
-  <a href="https://www.linkedin.com/in/varsha-lalwani-4a9489142/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="mailto:varsha38977@gmail.com" target="_blank"><i class="fa fa-envelope-o fa-fw" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="7905315428" target="_blank"><i class="fa fa-phone" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
-   &nbsp; &nbsp; &nbsp;
-
 
 theme: jekyll-theme-minimal
 google_analytics: G-XGVYWS5FQP # your Google Analytics tracking ID here
