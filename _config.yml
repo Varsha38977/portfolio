@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+title: Varsha Lalwani # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Software Developer at Thoughtspot
+  <br><br>
+  <a href="https://www.linkedin.com/in/varsha-lalwani-4a9489142/">View My LinkedIn Profile</a>
+
+theme: jekyll-theme-midnight
+google_analytics: G-XGVYWS5FQP # your Google Analytics tracking ID here
